@@ -3,5 +3,5 @@ const statusElement = document.getElementById("status");
 const enterBtn = document.getElementById("enterBtn");
 
 enterBtn.addEventListener('click', function () {
-	statusElement.innerHTML = "<h1>Entered MetaVerse</h1>"
+	statusElement.innerHTML = "<h1>Entered Metaverse</h1>"
 });
